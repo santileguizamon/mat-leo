@@ -24,7 +24,7 @@ export default function Footer() {
                 <div className={styles.contact}>
                     <h4 className={styles.title}>Contacto</h4>
                     <p>📞 +54 9  11 3637-8942</p>
-                    <p>✉️ info@mtseguridadindustrial.com.ar</p>
+                    <p>✉️ contacto@matafuegosleo.com</p>
                     <p>📍 Av. LaFuente 1191, CABA</p>
                 </div>
             </div>
