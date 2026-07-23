@@ -1,0 +1,28 @@
+.aboutSection {
+    background-color: var(--dark-bg);
+    border-top: 1px solid var(--border-color);
+    padding: 6rem 0;
+}
+
+.container {
+    max-width: 800px;
+    text-align: center;
+}
+
+.sectionTitle {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: var(--white);
+}
+
+.sectionTitle span {
+    color: var(--primary-red);
+}
+
+.description {
+    font-size: 1.125rem;
+    color: var(--text-muted);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+}
