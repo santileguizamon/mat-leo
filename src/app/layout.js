@@ -29,12 +29,12 @@ export const metadata = {
     "matafuego 5kg"
   ],
   alternates: {
-    canonical: "/",
+    canonical: "https://matafuegosleo.com",
   },
   openGraph: {
     title: "Matafuegos Leo | Recarga y Venta de Extintores en CABA",
     description: "Expertos con más de 40 años de trayectoria en recarga y revisación de matafuegos bajo normas IRAM para consorcios, empresas y particulares. Venta de matafuegos y kits de seguridad vehicular en Capital Federal.",
-    url: "/",
+    url: "https://matafuegosleo.com",
     siteName: "Matafuegos Leo",
     locale: "es_AR",
     type: "website",
@@ -50,9 +50,9 @@ const jsonLd = {
   "@type": "LocalBusiness",
   "name": "Matafuegos Leo - MT Seguridad Industrial",
   "description": "Especialistas en recarga, revisación y venta de matafuegos bajo normas IRAM para consorcios, empresas y particulares. Venta de matafuegos y kits de seguridad vehicular.",
-  "url": "https://www.mtseguridadindustrial.com.ar", // Nota: cambiar cuando se configure el dominio
+  "url": "https://matafuegosleo.com",
   "telephone": "+5491136378942",
-  "email": "info@mtseguridadindustrial.com.ar",
+  "email": "contacto@matafuegosleo.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Av. LaFuente 1191",

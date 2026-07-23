@@ -2,7 +2,7 @@
 // IMPORTANTE: Cuando tengas tu dominio definitivo, reemplaza 'https://www.cambiame-por-tu-dominio.com.ar' por tu URL real.
 
 export default function sitemap() {
-  const baseUrl = 'https://www.cambiame-por-tu-dominio.com.ar';
+  const baseUrl = 'https://matafuegosleo.com';
 
   return [
     {
